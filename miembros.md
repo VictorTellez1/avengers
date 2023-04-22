@@ -9,17 +9,18 @@
 7. Chronos
 8. Catwoman
 9. Deathstroke
-10. Copperhead
-11. Ra's al Ghul
-12. Doctor Light
-13. Gorilla Grodd
-14. Captain Boomerang
-15. Solomon Grundy
-16. Felix Faust
-17. Mr. Element
-18. The Penguin
-19. Talia al Ghul
-20. Lady Shiva
-21. Giganta
-22. Deadshot
-23. Nick Fury
+10. Capitan Marvel 
+11. Copperhead
+12. Ra's al Ghul
+13. Doctor Light
+14. Gorilla Grodd
+15. Captain Boomerang
+16. Solomon Grundy
+17. Felix Faust
+18. Mr. Element
+19. The Penguin
+20. Talia al Ghul
+21. Lady Shiva
+22. Giganta
+23. Deadshot
+24. Nick Fury
